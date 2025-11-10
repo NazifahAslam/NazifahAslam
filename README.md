@@ -1,15 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Nazifah Aslam
 
-**NazifahAslam/NazifahAslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring developer still learning and growing in software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on being a developer!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧰 Tech Stack
+- ⚡ JavaScript, TypeScript  
+- 🌐 HTML, CSS  
+- ⚛️ React, React Native  
+- ✅ Jest  
+- 🗄️ SQL, PostgreSQL  
+- ☁️ Supabase, Expo  
+
+---
+
+### 🎯 About Me
+- 🌱 Currently expanding my skills in software testing and development  
+
+---
+
+
+✨ *Thanks for visiting my profile! I’m always open to learning, collaborating, and exploring new ideas.*
 
